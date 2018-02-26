@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Input/Output</title>
+    <link>https://chaoys.github.io/</link>
+    <description>Recent content on Input/Output</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>chaoys</copyright>
+    <lastBuildDate>Mon, 26 Feb 2018 22:32:24 +0800</lastBuildDate>
+    
+	<atom:link href="https://chaoys.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>NULL</title>
+      <link>https://chaoys.github.io/project/null/</link>
+      <pubDate>Mon, 26 Feb 2018 22:32:24 +0800</pubDate>
+      
+      <guid>https://chaoys.github.io/project/null/</guid>
+      <description> not yet </description>
+    </item>
+    
+    <item>
+      <title>NULL</title>
+      <link>https://chaoys.github.io/gist/null/</link>
+      <pubDate>Mon, 26 Feb 2018 22:31:34 +0800</pubDate>
+      
+      <guid>https://chaoys.github.io/gist/null/</guid>
+      <description> not yet </description>
+    </item>
+    
+    <item>
+      <title>hello</title>
+      <link>https://chaoys.github.io/2018/02/25/hello/</link>
+      <pubDate>Sun, 25 Feb 2018 17:10:35 +0800</pubDate>
+      
+      <guid>https://chaoys.github.io/2018/02/25/hello/</guid>
+      <description> Hello world </description>
+    </item>
+    
+  </channel>
+</rss>
